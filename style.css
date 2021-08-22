@@ -1,1 +1,24 @@
+.header{
+  text-align: center;
+}
+
+body {
+  opacity: 0.4;
+  color: black;
+  font family : Arial , Helvetica, sans-serif;
+  margin: 10% 20%
+   
+}
+.intro{
+  border-top: 3px solid black;
+}
+
+
+
+.section {
+  text-transform: uppercase;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  text-align: center;
+}
 

@@ -3,7 +3,6 @@
 }
 
 body {
-  opacity: 0.4;
   color: black;
   font family : Arial , Helvetica, sans-serif;
   margin: 10% 20%
@@ -11,6 +10,7 @@ body {
 }
 .intro{
   border-top: 3px solid black;
+  text-align: center;
 }
 
 
@@ -21,4 +21,5 @@ body {
   border-bottom: 3px solid black;
   text-align: center;
 }
+
 

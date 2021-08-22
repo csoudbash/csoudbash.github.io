@@ -1,3 +1,9 @@
+.header{ 
+text-align: center;
+}
+
+
+
 body {
   color: black;
   font family : Arial , Helvetica, sans-serif;
@@ -9,13 +15,23 @@ body {
   text-align: center;
 }
 
-
-
+.target{
+  text-align:left;
+}
+.fieldday{
+  text-align: left;
+  
+}
 .section {
   text-transform: uppercase;
   border-top: 3px solid black;
   border-bottom: 3px solid black;
   text-align: center;
 }
-
+.education{ 
+text-align:left;
+}
+.contactinfo{
+  text-align:left;
+}
 
